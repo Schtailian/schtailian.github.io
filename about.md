@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: article
 title: About
 permalink: /about/
+key: about
 ---
 
 Hi, my name is Kilian I'm a software developer from Italy/Southtyrol.
